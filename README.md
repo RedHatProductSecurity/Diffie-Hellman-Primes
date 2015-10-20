@@ -10,18 +10,15 @@ For example the following code:
 
 ```
 #!/bin/bash
-mkdir -p 2048 4096
 for i in `seq 1 100`;
 do
-  openssl dhparam 2048 -text >> 2048/$i
-  openssl dhparam 4096 -text >> 4096/$i
+  openssl dhparam 2048 -text >> $i
 done
 ```
 
-will generate one hundred 2048-bit and 4096-bit primes. If you can ideally simply commit the files to the
-following github repo, simply create a directory in the root with your name/whatever you want to call it
-(nothing rude please) and have a "2048" directory for the 2048 bit primes and a "4096" directory for the
-4096 bit primes I would appreciate it. If you use a tool other than OpenSSL command line to generate the
-primes please make a note of it (especially any command line options used) in a .txt file in the root of
-your data directory. My goal is to collect a few million primes of each size so we have some real data to
-work with.
+will generate 100 2048 bit primes. If you can ideally simply commit the files to the following github repo,
+simply create a directory in the root with your name/whatever you want to call it (nothing rude please) and
+have a "2048" directory for the 2048 bit primes and a "4096" directory for the 4096 bit primes I would
+appreciate it. If you use a tool other than OpenSSL command line to generate the primes please make a note of
+it (especially any command line options used) in a .txt file in the root of your data directory. My goal is to
+collect a few million primes of each size so we have some real data to work with.
