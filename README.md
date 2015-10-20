@@ -8,11 +8,13 @@ http://security.stackexchange.com/questions/54359/what-is-the-difference-between
 
 For example the following code:
 
+```
 #!/bin/bash
 for i in `seq 1 100`;
 do
     openssl dhparam 2048 -text >> $i
 done
+```
 
 will generate 100 2048 bit primes. If you can ideally simply commit the files to the following github repo, 
 simply create a directory in the root with your name/whatever you want to call it (nothing rude please) and 
