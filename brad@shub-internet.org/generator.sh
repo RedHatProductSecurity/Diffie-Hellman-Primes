@@ -4,9 +4,9 @@ do
   mkdir -p ${BITS}
   for i in `seq 1 100`;
   do
-    openssl dhparam ${BITS} -text >> ${BITS}/$i
+    openssl dhparam ${BITS} -text >> ${BITS}/${i}
     git add .
-    git commit -am "${BITS} bits, ${i}/100"
+    git commit -am "${BITS}/${i}"
     git push
   done
 done
