@@ -1,5 +1,5 @@
 #!/bin/bash -vx
-for BITS in "2048 4096"
+for BITS in '2048 4096'
 do
   mkdir -p ${BITS}
   for i in `seq 1 100`;
