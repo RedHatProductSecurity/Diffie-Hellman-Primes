@@ -1,0 +1,58 @@
+
+Recommended key length: 256 bits
+
+generator:
+	38:2c:20:04:75:2a:61:32:b3:42:17:1d:1e:60:30:
+	60:c4:bc:39:03:d1:ea:61:23:4c:0b:82:86:f3:4e:
+	24:33:e3:a7:d9:8b:df:b7:2a:46:d0:93:d9:d7:81:
+	aa:01:2b:e4:47:84:91:a4:06:67:ca:53:f9:b5:24:
+	7c:35:bb:79:a8:f7:25:80:d2:50:b3:35:d0:3e:5d:
+	e3:c0:5c:3e:ec:7d:26:37:1c:02:27:c1:d9:05:ae:
+	1e:66:c7:18:de:0a:b0:ed:42:4d:4c:50:e5:ed:26:
+	41:fe:b4:21:72:13:61:65:56:bf:f6:d3:50:84:de:
+	58:27:14:92:9f:e3:fb:fa:c1:21:21:01:c4:43:db:
+	60:27:a5:30:a4:07:cf:92:52:65:14:f4:bc:6f:05:
+	80:ff:2c:85:32:8b:ca:71:ca:20:7a:3c:f3:5c:3c:
+	35:fe:4c:b2:db:1b:4f:02:70:73:1b:fc:f6:92:dc:
+	bd:c1:99:29:5d:a2:f3:9e:c1:30:2e:ea:97:f6:98:
+	e0:0d:ea:97:30:4a:93:43:b8:bc:d8:1c:3a:ee:15:
+	04:5f:4a:aa:9b:ee:0c:3d:12:e0:62:36:aa:16:f8:
+	66:cb:a0:69:e6:99:b9:a8:df:d4:2a:a8:14:d6:62:
+	a9:fc:d9:df:56:72:9f:15:ae:04:dd:dc:7c:d7:6a:
+	f2:
+
+prime:
+	a3:19:ce:c4:49:b8:85:61:bc:f9:78:84:70:57:4f:
+	97:d8:26:d4:e1:54:a3:cc:5c:9f:c5:be:59:b0:10:
+	11:ac:18:0f:4e:49:b5:11:d9:01:c0:ce:1a:38:3b:
+	39:a0:b6:29:64:bb:e3:8e:a4:f9:8c:ba:bc:e3:b2:
+	d5:03:f5:cc:3b:fc:96:03:d4:5a:fc:86:a4:f5:0c:
+	55:ec:15:31:45:d7:86:aa:3b:3f:70:60:ee:2a:5d:
+	13:82:cb:a9:71:e9:c9:3a:98:5f:1d:44:ae:ba:01:
+	fd:a7:6f:18:39:4c:00:1b:ce:cc:47:9a:a7:9b:25:
+	df:ef:46:db:53:07:11:24:3e:6d:e4:8b:73:48:74:
+	a8:9d:da:4c:6e:cb:c8:30:93:91:df:da:b6:b7:d5:
+	51:9f:f8:f8:69:f6:4d:e1:5a:3d:cb:be:83:b1:9d:
+	08:f9:8f:90:c2:db:68:4d:60:c2:f6:18:14:ac:66:
+	98:90:59:12:a6:22:59:16:86:cf:05:0d:a1:d8:ac:
+	12:f9:6a:a5:7c:87:42:b1:b7:2a:9c:2d:cb:66:c8:
+	27:c4:8a:4b:67:92:5b:d6:cf:22:d2:0f:37:aa:b1:
+	bd:7a:6c:dd:99:a6:b3:6f:da:73:ee:ba:b7:da:fc:
+	4e:b1:26:28:bc:2d:7d:c5:be:42:59:d4:82:f1:a5:
+	13:
+
+
+-----BEGIN DH PARAMETERS-----
+MIICDQKCAQEAoxnOxEm4hWG8+XiEcFdPl9gm1OFUo8xcn8W+WbAQEawYD05JtRHZ
+AcDOGjg7OaC2KWS7446k+Yy6vOOy1QP1zDv8lgPUWvyGpPUMVewVMUXXhqo7P3Bg
+7ipdE4LLqXHpyTqYXx1ErroB/advGDlMABvOzEeap5sl3+9G21MHESQ+beSLc0h0
+qJ3aTG7LyDCTkd/atrfVUZ/4+Gn2TeFaPcu+g7GdCPmPkMLbaE1gwvYYFKxmmJBZ
+EqYiWRaGzwUNodisEvlqpXyHQrG3Kpwty2bIJ8SKS2eSW9bPItIPN6qxvXps3Zmm
+s2/ac+66t9r8TrEmKLwtfcW+QlnUgvGlEwKCAQA4LCAEdSphMrNCFx0eYDBgxLw5
+A9HqYSNMC4KG804kM+On2YvftypG0JPZ14GqASvkR4SRpAZnylP5tSR8Nbt5qPcl
+gNJQszXQPl3jwFw+7H0mNxwCJ8HZBa4eZscY3gqw7UJNTFDl7SZB/rQhchNhZVa/
+9tNQhN5YJxSSn+P7+sEhIQHEQ9tgJ6UwpAfPklJlFPS8bwWA/yyFMovKccogejzz
+XDw1/kyy2xtPAnBzG/z2kty9wZkpXaLznsEwLuqX9pjgDeqXMEqTQ7i82Bw67hUE
+X0qqm+4MPRLgYjaqFvhmy6Bp5pm5qN/UKqgU1mKp/NnfVnKfFa4E3dx812ryAgIB
+AA==
+-----END DH PARAMETERS-----
