@@ -1,0 +1,2 @@
+
+    $ seq 1 100 | parallel --eta  -j 4 './gen.sh 4096'
