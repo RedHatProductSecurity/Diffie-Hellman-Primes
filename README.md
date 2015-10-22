@@ -10,7 +10,7 @@ For example the following code:
 
 ```
 #!/bin/bash
-for i in `seq 1 1000`;
+for i in `seq 1 100`;
 do
   openssl dhparam 2048 -text >> $i
 done
