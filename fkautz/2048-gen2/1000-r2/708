@@ -1,0 +1,29 @@
+    PKCS#3 DH Parameters: (2048 bit)
+        prime:
+            00:cf:96:2c:8b:c5:f1:89:c6:6c:58:aa:5f:a9:a4:
+            09:1c:ce:b4:84:0a:fe:d8:4c:2c:a0:5a:2d:6f:22:
+            b3:86:05:22:df:8f:86:1e:1e:8d:fa:ce:28:2a:b5:
+            f5:2a:95:fe:8f:80:73:a4:c0:50:17:9f:f8:4a:a5:
+            b1:e8:83:e4:67:c0:1b:d9:c2:75:96:8a:e6:1b:84:
+            e7:1f:94:5f:50:e0:90:b4:c5:82:82:27:23:72:7d:
+            33:a1:4e:a9:b6:93:48:32:54:ba:ea:64:b2:fa:d4:
+            a2:64:ac:28:6f:5c:f3:ec:08:92:cb:fa:b2:45:a0:
+            e3:b5:29:f5:f8:09:17:2b:ed:8a:a4:49:24:9f:94:
+            59:79:cf:75:e5:33:b1:26:da:fb:28:8e:67:f2:64:
+            3f:ce:05:d6:31:27:c7:a7:fd:93:eb:7b:f3:33:0a:
+            8e:78:65:1e:0e:5a:53:4b:a5:16:fd:80:cc:df:e4:
+            e2:95:1a:ba:ee:00:c6:39:5d:9f:b8:e3:00:05:a6:
+            75:c3:27:64:57:b7:33:f3:0f:56:46:06:7a:bd:3a:
+            ed:15:06:1a:1e:9e:23:74:7a:05:a5:67:f8:12:f2:
+            11:c6:2d:0e:8b:cc:c0:40:85:a2:8f:93:64:7d:bb:
+            6f:b4:44:8e:30:03:29:e7:43:19:24:58:aa:45:5c:
+            8c:9b
+        generator: 2 (0x2)
+-----BEGIN DH PARAMETERS-----
+MIIBCAKCAQEAz5Ysi8XxicZsWKpfqaQJHM60hAr+2EwsoFotbyKzhgUi34+GHh6N
++s4oKrX1KpX+j4BzpMBQF5/4SqWx6IPkZ8Ab2cJ1lormG4TnH5RfUOCQtMWCgicj
+cn0zoU6ptpNIMlS66mSy+tSiZKwob1zz7AiSy/qyRaDjtSn1+AkXK+2KpEkkn5RZ
+ec915TOxJtr7KI5n8mQ/zgXWMSfHp/2T63vzMwqOeGUeDlpTS6UW/YDM3+TilRq6
+7gDGOV2fuOMABaZ1wydkV7cz8w9WRgZ6vTrtFQYaHp4jdHoFpWf4EvIRxi0Oi8zA
+QIWij5NkfbtvtESOMAMp50MZJFiqRVyMmwIBAg==
+-----END DH PARAMETERS-----
