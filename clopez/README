@@ -1,0 +1,4 @@
+Generated on Debian with:
+ OpenSSL 1.0.2a 19 Mar 2015 (Library: OpenSSL 1.0.2d 9 Jul 2015)
+Running the following command:
+ for i in `seq 1 100`; do openssl dhparam 2048 -text >> $i; done
