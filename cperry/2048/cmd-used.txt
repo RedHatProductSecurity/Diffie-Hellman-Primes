@@ -1,0 +1,1 @@
+for i in `seq 1 100`; do     openssl dhparam 2048 -text >> 1; done
