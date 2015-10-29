@@ -2,7 +2,10 @@
 # vim: set ts=2 sw=2 ai et:
 set -e
 
-for i in $(seq 1 130); do
+mkdir 2048 || :
+mkdir 4096 || :
+
+for i in $(seq 131 250); do
   for size in 2048 4096; do
     echo
     echo =========================
