@@ -27,7 +27,7 @@ See the Dockerfile and `generate.sh` script.
 It uses the default 2 generator.
 
 
-Primes 251-350
+Primes 251-450
 --------------
 
 These primes (both 2048 and 4096) were generated with
