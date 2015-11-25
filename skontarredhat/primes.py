@@ -13,7 +13,7 @@ import subprocess
 
 def f(arguments):
     size, number, output_dir = arguments
-    output = path.join(output_dir, '{:05d}.txt'.format(number))
+    output = path.join(output_dir, '{:07d}.txt'.format(number))
     if not path.exists(output):
         subprocess.call('openssl dhparam {} -text >> {} 2> /dev/null'.format(size, output),
                         shell=True)
@@ -26,7 +26,7 @@ if __name__ == '__main__':
     parser.add_argument('-s', '--size', default=2048, type=int, choices=(2048, 4096),
                         help='Size of prime in bits.')
     parser.add_argument('-n', '--number', default=1000, type=int,
-                        help='How many primes should be generated. They are numbered 1 ... NUMBER. '
+                        help='How many primes should be generated. They are numbered 1 ... NUMBER.'
                              'Already generated primes are skipped.')
     args = parser.parse_args()
 
@@ -45,4 +45,3 @@ if __name__ == '__main__':
         arguments.append([args.size, i, output_dir])
 
     p.map(f, arguments)
-
