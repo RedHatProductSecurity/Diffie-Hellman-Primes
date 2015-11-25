@@ -1,0 +1,29 @@
+Diffie-Hellman-Parameters: (2048 bit)
+    prime:
+        00:bb:65:03:da:36:3e:c1:05:46:e6:14:94:47:5e:
+        ea:5b:bf:7e:3f:a3:3e:2a:55:1e:da:55:f2:1e:e5:
+        03:38:c9:b1:bd:c2:e6:73:f4:bf:34:0e:7b:48:23:
+        c0:e6:5f:a4:5b:ad:d3:b5:82:87:39:73:c5:b8:a4:
+        7d:dd:66:b0:a8:b0:41:84:95:dd:12:8b:81:f9:07:
+        10:19:c6:6d:7a:28:63:ae:24:f5:71:7e:e3:f1:19:
+        62:df:48:47:c0:37:c7:2f:17:a8:38:0b:9f:c4:da:
+        98:4c:20:e6:05:a4:63:4d:14:1e:be:cc:98:fd:21:
+        f6:2c:6f:cf:3a:7c:d2:c0:f5:d2:a9:43:83:b5:6d:
+        28:6c:8f:85:fc:af:96:7e:2a:b0:7e:86:64:91:ac:
+        9e:2e:0e:e9:5b:21:db:1f:37:2a:df:21:89:60:8d:
+        0c:00:fb:1a:5b:79:93:a8:7a:f5:6c:3e:c4:a2:53:
+        64:ea:b2:da:0d:d9:d2:b3:9f:c0:1b:d6:ad:3c:f8:
+        6a:4a:c5:87:c5:16:42:f1:27:e0:84:99:6c:76:6c:
+        14:85:a7:fc:6d:a5:ef:f1:1b:cf:95:ab:2e:b6:f4:
+        6c:e4:ba:cf:59:c1:d0:a3:62:2d:cc:d1:32:05:6b:
+        b2:b8:af:41:eb:a1:fc:23:20:24:3c:0e:4f:ae:a2:
+        02:a3
+    generator: 2 (0x2)
+-----BEGIN DH PARAMETERS-----
+MIIBCAKCAQEAu2UD2jY+wQVG5hSUR17qW79+P6M+KlUe2lXyHuUDOMmxvcLmc/S/
+NA57SCPA5l+kW63TtYKHOXPFuKR93WawqLBBhJXdEouB+QcQGcZteihjriT1cX7j
+8Rli30hHwDfHLxeoOAufxNqYTCDmBaRjTRQevsyY/SH2LG/POnzSwPXSqUODtW0o
+bI+F/K+WfiqwfoZkkayeLg7pWyHbHzcq3yGJYI0MAPsaW3mTqHr1bD7EolNk6rLa
+DdnSs5/AG9atPPhqSsWHxRZC8SfghJlsdmwUhaf8baXv8RvPlasutvRs5LrPWcHQ
+o2ItzNEyBWuyuK9B66H8IyAkPA5PrqICowIBAg==
+-----END DH PARAMETERS-----
